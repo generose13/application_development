@@ -1,0 +1,74 @@
+a {
+  color: white;
+}
+
+.nav-link:hover {
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+}
+
+thead {
+  background-color: #111111;
+  color: white;
+}
+
+tbody {
+  background-color: white;
+  color: black;
+}
+
+.btnView {
+  border-radius: 5px;
+  background: #ffffff;
+  color: #000000;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 2px;
+  margin-left: -30px;
+}
+
+.btnView:hover {
+  background: #fbfbfb;
+  text-decoration: none;
+}
+
+.btnDelete {
+  border-radius: 5px;
+  background: #111111;
+  color: white;
+  text-decoration: none;
+}
+
+.btnDelete:hover {
+  background: #2b2b2b;
+  text-decoration: none;
+}
+
+.logo-gray {
+  /* margin-left: 1130px;
+  margin-bottom: -130px; */
+  height: 80px;
+  width: 80px;
+}
+
+.logo-white {
+  height: 120px;
+  width: 120px;
+  margin-left: 60px;
+  margin-top: -20px;
+  margin-bottom: -10px;
+}
+
+.user {
+  margin-left: 80px;
+  font-weight: bold;
+}
+
+.admin-text {
+  font-weight: bold;
+  margin-top: -40px;
+  margin-left: 120px;
+  margin-bottom: 0px;
+}

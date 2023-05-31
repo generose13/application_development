@@ -1,0 +1,22 @@
+.modal-content {
+  background-color: #111111;
+}
+
+.modal-dialog {
+  margin-top: 5em;
+}
+
+.login-header {
+  color: white;
+  font-size: 30px;
+  margin-left: 5.3em;
+  font-weight: bold;
+}
+
+.logo-white {
+  margin-top: -30px;
+  margin-bottom: -30px;
+  margin-left: 140px;
+  height: 120px;
+  width: 120px;
+}
